@@ -193,6 +193,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    background-color: rgb(241, 241, 241);
 }
 
 .footer-container {
